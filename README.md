@@ -774,7 +774,11 @@ Material utilizado para el desarrollo de la práctica:
 # Información del Estudiante
 
 **Nombre:** Maria Townshend
+
 **Curso:** Herramientas de Programación Aplicada III
+
 **Institución:** Universidad Tecnológica de Panamá
+
 **Facultad:** Facultad de Ingeniería de Sistemas Computacionales
+
 **Instructor:** Ing. Irina Fong
